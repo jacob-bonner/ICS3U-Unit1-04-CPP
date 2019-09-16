@@ -7,9 +7,10 @@
 #include <iostream>
 #include <cmath>
 
-int main()
-{std::cout << "If the rectangle has the dimensions:" << std::endl;
-std::cout<< "5cm x 3cm" << std::endl;
-std::cout<< "" << std::endl;
-std::cout<< "The perimeter = " << (5*2+3*2) << std::endl;
-std::cout<< "The area = " << (5*3) << std::endl;}
+int main()  {
+    std::cout << "If the rectangle has the dimensions:" << std::endl;
+    std::cout<< "5cm x 3cm" << std::endl;
+    std::cout<< "" << std::endl;
+    std::cout<< "The perimeter = " << (5*2+3*2) << std::endl;
+    std::cout<< "The area = " << (5*3) << std::endl;
+}
